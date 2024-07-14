@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            minHeight="550.0" minWidth="850.0"
+            fx:controller="agh.ics.oop.presenter.SimulationPanelPresenter">
+    <top>
+        <TextField fx:id="textField"/>
+    </top>
+    <center>
+        <Label fx:id="infoLabel" text="Start a simulation where all animals will live! It shows up in a new window." textAlignment="CENTER" wrapText="true"/>
+    </center>
+    <bottom>
+        <BorderPane>
+            <left>
+                <Button fx:id="startButton" text="Start a new Simulation. Maximum of 4 simulations simultaneously!" onAction="#startNewSimulation"/>
+            </left>
+            <right>
+                <Button fx:id="closeButton" text="Close the program. No simulations can be active." onAction="#endButtonClicked"/>
+            </right>
+        </BorderPane>
+    </bottom>
+</BorderPane>
