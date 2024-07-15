@@ -17,5 +17,7 @@ W labach 1, 2, 3 straciłem 0.1 do 0.3 punkta za jakieś pierdoły, coś się dr
 Poza tym jeszcze w labie 5 straciłem 0.2 punkta za "brak testów do klasy `Grass`".
 Reszta labów była oceniona na 4/4 punkty.
 
+Projekt z tego przedmiotu ma poświęcone oddzielne repozytorium, bardziej szczegółowe informacje o projekcie [tutaj](https://github.com/wojmichaluk/ProgObiektowe-Project-2023-2024).
+
 Starałem się, żeby kod był dobrej jakości, ale zapewne mogą być jakieś inne błędy, niedociągnięcia, bo ocenianie i tak było dość łagodne.
 Przede wszystkim jednak mam nadzieję, że przedstawiona tu zawartość okaże się **przydatna**. Korzystajcie rozważnie!
