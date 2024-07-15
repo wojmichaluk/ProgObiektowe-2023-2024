@@ -61,7 +61,7 @@ Wczytywanie plików może być przydatne również na potrzeby UI. Do tej pory k
 6. Wykorzystaj powyższe metody w konstruktorze klasy `WorldElementBox`, który powinien przyjmować instancję `WorldElement` i wyświetlać reprezentację elementu. Upewnij się, że elementy te nie są niepotrzebnie tworzone wielokrotnie.
 7. Zamień reprezentację tekstową na graficzną w prezenterze widoku.
 8. Docelowy wygląd:<br>
-![look2](img/preview.png)
+![look2](preview.png)
 
 
 

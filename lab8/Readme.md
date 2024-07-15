@@ -148,7 +148,7 @@ Najważniejsze zadania:
 6. Możesz pokazać linie siatki korzystając z atrybutu `gridLinesVisible="true"` dla `GridPane` (bezpośrednio w FXML lub w kodzie).
 
 1. Aktualnie, twój program powinien wyglądać mniej więcej tak (użyto mapy `GrassField`, dodano 2 zwierzaki):
-   ![ui grid](img/ui-grid.png)
+   ![ui grid](ui-grid.png)
 
 ### Zadanie dodatkowe (<img src="../img/reward_silver.png" alt="srebrna skrzynka" width="50" align="center" />)
 

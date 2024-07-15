@@ -4,7 +4,7 @@ Repository for Object-Oriented-Programming course at AGH University
 Katalogi **lab*i*, i=1,2,...,8** oraz **proj_lab1** zawierają stan programu po danym laboratorium, przy czym każdy kolejny lab w tej sekwencji stanowi kontynuację poprzedniego. 
 Poza tym katalog **lab0** zawiera pliki w ramach wstępnego laboratorium, ale bez rozwiązań z *git exercises*, natomiast katalog **proj_lab2** zawiera pliki z programu w Kotlinie, który stanowi mocno uproszczoną wersję tego z Javy (rozbudowywanego na poprzednich labach). 
 
-Plik *instrukcja_do_labow.md* zawiera ogólny opis, jak wyglądają laboratoria. Pobrałem dodatkowo obrazki (w katalogu **img**), do których są odniesienia w tym pliku, a także w instrukcjach do niektórych labów. 
+Plik *instrukcja_do_labow.md* zawiera ogólny opis, jak wyglądają laboratoria. Pobrałem dodatkowo obrazki (te główne w katalogu **img**, poza tym pojedyncze do niektórych labów), do których są odniesienia w tym pliku, a także w instrukcjach do niektórych labów. 
 Źródłem tych obrazków jest oryginalne repozytorium z opisem zadań z laboratoriów, do którego, jeżeli to się nie zmieni, link można znaleźć na wiadomej stronie.
 
 W każdym z katalogów wspomnianych w pierwszym akapicie znajduje się plik *Readme.md*, w którym znajdują się oryginalne treści instrukcji do labów - źródło jak powyżej.
